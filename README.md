@@ -2,6 +2,8 @@
 
 A 2d live demo player for CS:GO.
 
+WARNING: the project is in its VERY early stages
+
 Ideas for the project:
 - Electron wrapper
 - Storing demos in a mongodb database
